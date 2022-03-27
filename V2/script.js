@@ -1,3 +1,6 @@
+// open web.whatsapp.com
+// open the chat where you want to send messages
+
 var message = prompt("Enter your message", "");
 var counter = parseInt(prompt("How many Times ?", 10));
 window.InputEvent = window.Event || window.InputEvent;
